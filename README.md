@@ -1,4 +1,4 @@
 # ashproject-demo
 This is a new project.
 <br>
-Author - Akshay
+Author - Akshay Thakran
